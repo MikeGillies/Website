@@ -1,0 +1,6 @@
+[submodule "themes/hugo-product-launch"]
+	path = themes/hugo-product-launch
+	url = https://github.com/janraasch/hugo-product-launch.git
+[submodule "public"]
+	path = public
+	url = git@github.com:MikeGillies/Website.git
