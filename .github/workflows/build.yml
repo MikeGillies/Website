@@ -31,7 +31,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        run: cd public && git add . && git commit -m 'Release ${{github.run_number}}' && git push
+        run: cd public && git add . && git commit --allow-empty -m 'Release ${{github.run_number}}' && git push
 
 #      - name: Deploy
 #        uses: peaceiris/actions-gh-pages@v3
