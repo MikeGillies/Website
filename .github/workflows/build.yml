@@ -1,5 +1,7 @@
 on:
-  - workflow_dispatch
+  push:
+    branches:
+      - source
 jobs:
   build:
     runs-on: ubuntu-22.04
