@@ -7,7 +7,7 @@ header_button_cta:
 header_button_more:
   url: "#about"
   title: "Find out more"
-teaser_image: "business.png"
+teaser_image: "business.jpg"
 ---
 
 # About Casteal Science and Technology
