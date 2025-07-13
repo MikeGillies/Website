@@ -2,12 +2,12 @@
 header_brand: "Casteal Science and Technology Ltd"
 header_tagline_paragraph: "Thank you for visiting our page, we're a new technology business currently focused on developing our first projects behind the scenes. While our website isn't quite ready yet, we look forward to sharing more with you soon."
 header_button_cta:
-  url: "#contact-form"
+  url: "#contact"
   title: "Get in touch"
 header_button_more:
   url: "#about"
   title: "Find out more"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+teaser_image: "business.png"
 ---
 
 # About Casteal Science and Technology
