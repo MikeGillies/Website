@@ -7,7 +7,7 @@ header_button_cta:
 header_button_more:
   url: "#about"
   title: "Find out more"
-teaser_image: "business.jpg"
+teaser_image: "images/business.jpg"
 ---
 
 # About
