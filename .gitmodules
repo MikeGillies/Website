@@ -1,7 +1,7 @@
 [submodule "themes/hugo-product-launch"]
 	path = themes/hugo-product-launch
 	url = https://github.com/neirfeno/hugo-product-launch.git
+	branch = form-method
 [submodule "public"]
 	path = public
 	url = git@github.com:MikeGillies/Website.git
-	branch = form-method
