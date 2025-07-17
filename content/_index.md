@@ -22,7 +22,7 @@ If you are interested in partnering with Casteal Science and Technology Ltd or s
 
 Michael Gillies - Director
 
-E-mail: [michael.gillies@casteal.co.uk](mailto:michael.gillies@casteal.co.uk)
+{{< contact_form action="https://formsubmit.co/michael.gillies@casteal.co.uk" >}}
 
 ---
 
